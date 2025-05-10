@@ -33,6 +33,7 @@ I enjoy clean code, minimalistic design, and building things that just make sens
 
 ## 📬 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/SshevelisPlotva)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:magstroiardi@gmail.com)
 
 ---
 
